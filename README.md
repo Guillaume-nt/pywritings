@@ -1,5 +1,5 @@
 # Pywritings
-Oprical Character Recognition
+Oprical Character Recognition (OCR) allows the transformation of text on a photograph into a text file.
 
 The OCR system uses the latest technology to collect information from a scanned document and then converts it into a text file. The OCR system compares the black and white colors of a document to determine each alphanumeric code. The system then recognizes each character, and converts it into ASCII text (American Standard Code for Information Interchange).
 
